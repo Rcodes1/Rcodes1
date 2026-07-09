@@ -1,5 +1,7 @@
 ## Hi there 👋
+###📊 My Coding Languages
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reds127&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **reds127/reds127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
