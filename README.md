@@ -23,15 +23,5 @@ Welcome to my GitHub profile. I use this space to build open-source projects and
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
----
 
-### 🏆 GitHub Trophies
-
-[![github contribution trophies](https://github-profile-trophy.vercel.app/?username=Rcodes1&theme=onedark&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-### ⚡ Activity Streak
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rcodes1&theme=tokyonight)](https://github.com/cyberwolfic/github-readme-streak-stats)
 
